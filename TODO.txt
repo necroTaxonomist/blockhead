@@ -1,0 +1,5 @@
+TODO:
+- Add nails
+- Scale entire mouth
+- Create a collar
+- Fix shoulder blades
