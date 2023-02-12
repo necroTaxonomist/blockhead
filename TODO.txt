@@ -3,3 +3,5 @@ TODO:
 - Scale entire mouth
 - Create a collar
 - Fix shoulder blades
+- Fix missing vertex on shoulder pad
+- Fix envelope width for eyes
