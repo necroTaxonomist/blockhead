@@ -4,5 +4,3 @@ TODO:
 - Create a collar
 - Fix shoulder blades
 - Fix missing vertex on shoulder pad
-- Fix envelope width for eyes
-- Fix the background color in 2D (red globe icon on right)
