@@ -1,9 +1,6 @@
 TODO:
 - Add nails
-- Scale entire mouth
-- Create a collar
-- Fix missing vertex on shoulder pad
-- Don't use the old head as the base
-- Let the ankles and knees bend more on the x axis
-- Lock forearm location
-- Parent hand IK to chest
+- Allow full rotation of waist
+- Remove temporary toes
+- Increase thumb range of motion
+- Match rotation on right foot IK
