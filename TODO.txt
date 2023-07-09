@@ -1,6 +1,2 @@
 TODO:
 - Add nails
-- Allow full rotation of waist
-- Remove temporary toes
-- Increase thumb range of motion
-- Match rotation on right foot IK
