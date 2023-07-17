@@ -1,2 +1,3 @@
 TODO:
 - Add nails
+- Decide which should move between root and waist
