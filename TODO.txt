@@ -1,3 +1,4 @@
 TODO:
 - Add nails
+- Add shoes
 - Improve tongue
