@@ -2,3 +2,7 @@ TODO:
 - Add nails
 - Add shoes
 - Improve tongue
+- Align Core and LowerChest to be a straight line
+- Thumb joint is not accurate
+- Spine IK is in general kinda jank
+- Fix parent of DressKneeCenter
