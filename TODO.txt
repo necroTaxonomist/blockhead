@@ -2,7 +2,13 @@ TODO:
 - Add nails
 - Add shoes
 - Improve tongue
-- Align Core and LowerChest to be a straight line
-- Thumb joint is not accurate
-- Spine IK is in general kinda jank
-- Fix parent of DressKneeCenter
+- Eye socket movement is a little bit jank
+- Move breasts with the shoulder size
+- Add some indicator in the middle that matches the eye size
+- Make the neck better and add IK
+- Canthal tilt parameter
+- Address arm stiffness
+- Make the top better (it covers the collar)
+- Remove the front butt
+- Allow rotation on the shoulder part of the sleeve
+- Don't control waist rotation with IK
