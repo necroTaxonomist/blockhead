@@ -8,7 +8,4 @@ TODO:
 - Make the neck better and add IK
 - Canthal tilt parameter
 - Address arm stiffness
-- Make the top better (it covers the collar)
-- Remove the front butt
 - Allow rotation on the shoulder part of the sleeve
-- Don't control waist rotation with IK
