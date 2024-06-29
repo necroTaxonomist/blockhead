@@ -9,3 +9,4 @@ TODO:
 - Canthal tilt parameter
 - Address arm stiffness
 - Allow rotation on the shoulder part of the sleeve
+- ViewFocus should copy EyeSockets location
